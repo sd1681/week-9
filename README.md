@@ -1,10 +1,10 @@
 # week-9
 secure software engineering week 9
+https://i.imgur.com/mZE2bZY.gifv
 
 # Lab 
 - [x] Challenge 1
 - [x] Stretch Challenge 2
-   https://imgur.com/a/WWgjb
 - Milestone 2
 - [x] Challenge 1
 - [x] Challenge 2
